@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Jesuino <img src="coffee-fill-cropped.svg" width="32px" style="vertical-align:middle;"/>
+  Hi, I'm Jesuino <img src="coffee-fill-cropped.svg" width="30px" style="vertical-align:bottom;"/>
 </h1>
 
 <h3 align="center">
