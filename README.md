@@ -2,10 +2,6 @@
   Hi, I'm Jesuino <img src="coffee-fill.svg" style="vertical-align:middle;"/>
 </h1>
 
-<h3 align="center">
-  MSc in Computer Science (AI) @ Université de Montréal
-</h3>
-
 <p align="center">
   <a href="https://jesuinovieira.github.io/">Homepage</a> · 
   <a href="mailto:jesuino.vf@gmail.com">Email</a> · 
