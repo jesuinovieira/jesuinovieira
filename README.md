@@ -1,9 +1,13 @@
-# Hey, I'm Jesuino 👋
+<h1 align="center">
+  Hi, I'm Jesuino <img src="coffee-fill.svg" style="vertical-align:top;"/>
+</h1>
 
-Data scientist and software developer with five years of experience at [IconPro GmbH](https://iconpro.com/en/).
+<h3 align="center">
+  MSc in Computer Science (AI) @ Université de Montréal
+</h3>
 
-> My github hosts a collection of projects from my bachelor's studies (organized by course)
-
-<div align="center">
-  <img src="feynman.webp" alt="Feynman">
-</div>
+<p align="center">
+  <a href="https://jesuinovieira.github.io/">Homepage</a> · 
+  <a href="mailto:jesuino.vf@gmail.com">Email</a> · 
+  <a href="https://www.linkedin.com/in/jesuinovieira">LinkedIn</a>
+</p>
